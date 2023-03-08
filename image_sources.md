@@ -1,0 +1,10 @@
+- https://pssclabs.com/article/design-your-model-design-your-hpc-solution-implementing-a-numerical-weather-model/
+- https://support.bull.com/ols/product/platforms/hw-extremcomp/sequana/xh2000
+- https://youtu.be/9giBKe1VwKU
+- https://pmix.github.io/
+- https://s4bxi.julien-emmanuel.com/overview/
+- https://tikz.net/neural_networks/
+- https://toppng.com/free-image/magnifying-glass-PNG-free-PNG-Images_4842
+- https://asc.llnl.gov/codes/proxy-apps/lulesh
+- https://asc.llnl.gov/codes/proxy-apps/quicksilver
+- https://github.com/Ezibenroc/thesis/blob/master/thesis_final.pdf

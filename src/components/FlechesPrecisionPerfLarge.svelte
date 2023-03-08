@@ -1,0 +1,2 @@
+<img src="assets/fleche_precision.png" alt="precision" class="absolute top-[6.23rem] left-[18.1rem] w-[55.99rem] -z-10 d-shadow-xs" data-id="fleche_precision"/>
+<img src="assets/fleche_perf.png" alt="performance" class="absolute top-[36.79rem] left-[18.1rem] w-[56.8rem] -z-10 d-shadow-xs" data-id="fleche_perf"/>
